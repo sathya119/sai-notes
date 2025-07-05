@@ -4,8 +4,7 @@ longform:
   title: Sai Notes
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - intro
+  scenes: []
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---
